@@ -47,27 +47,23 @@ The solution allows companies to register, manage, and generate compliant chemic
 
 ---
 
-### ⚙️ [Business Process Automation with VBA](https://github.com/fcosolis/TU-REPO-AQUI)
+### 📊 [Employee Absence Management & Vacation Planner](https://github.com/fcosolis/Employee-Absence-Management-Vacation-Planner-)
 
 **Description:**  
-This project demonstrates the automation of repetitive business processes using **VBA macros**. It includes automated report generation, data consolidation, button-triggered actions, and structured workflows to reduce manual effort and improve operational efficiency.
+This project presents a fully editable and professional Excel-based absence management system, designed for entrepreneurs, SMEs, and HR departments seeking an efficient, visual, and structured solution to track employee absences.
 
-The solution emphasizes reliability, usability, and performance optimization.
-
-<!-- Add screenshot here -->
-<!-- ![Automation Screenshot](link_to_image) -->
+![Employee Absence Management & Vacation Planner](https://github.com/fcosolis/Employee-Absence-Management-Vacation-Planner-/blob/main/Thumbnail.jpg)  
 
 ---
 
-### 🖥️ [Excel Application with Advanced Interface (UserForms)](https://github.com/fcosolis/TU-REPO-AQUI)
+### 🗓️ [Simple Employee Vacation Tracker](https://github.com/fcosolis/Simple-Employee-Vacation-Tracker-)
 
 **Description:**  
-A desktop-like Excel solution built using **VBA and UserForms**, featuring custom interfaces, input validation, automated database updates, and structured navigation.
+This project presents a professional Excel-based vacation management system designed to efficiently track, calculate, and visualize employee vacation periods.
 
-This project highlights my ability to transform Excel into a functional business application with enhanced usability and professional UI design.
+The solution is fully automated using advanced Excel formulas, structured tables, and dynamic visual components — built to support clear vacation planning, historical tracking, and formal approval processes within a company.
 
-<!-- Add screenshot here -->
-<!-- ![UserForm Screenshot](link_to_image) -->
+![Simple Employee Vacation Tracker](https://github.com/fcosolis/Simple-Employee-Vacation-Tracker-/blob/main/Thumbnile.jpg)  
 
 ---
 
