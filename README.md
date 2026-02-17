@@ -36,15 +36,14 @@ I specialize in building interactive dashboards, automating repetitive processes
 
 ## 🚀 Projects
 
-### 📊 [Sales & Performance Dashboard (Excel)](https://github.com/fcosolis/TU-REPO-AQUI)
+### 🧪 [Globally Harmonized System (GHS)](https://github.com/fcosolis/Globally-Harmonized-System-GHS-)
 
 **Description:**  
-An interactive Excel dashboard designed to monitor sales performance, KPIs, and business trends using Pivot Tables, advanced formulas, and dynamic visualizations.
+This project presents a powerful Excel + VBA-based management system built under the Globally Harmonized System (GHS) standards for chemical classification and labeling.
 
-The project focuses on delivering clear business insights through structured data modeling and professional dashboard design, enabling efficient decision-making.
+The solution allows companies to register, manage, and generate compliant chemical labels without requiring additional software. It integrates automation, structured databases, and a modern VBA interface to streamline hazardous substance management.
 
-<!-- Add screenshot here -->
-<!-- ![Dashboard Screenshot](link_to_image) -->
+![Globally Harmonized System (GHS)](https://github.com/fcosolis/Globally-Harmonized-System-GHS-/blob/main/Thumbnail.jpg)  
 
 ---
 
